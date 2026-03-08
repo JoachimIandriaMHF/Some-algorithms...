@@ -14,6 +14,6 @@
 
 8.Short Message Service 
 
-9. Budget courses 
+9.Budget courses 
 
-10. Calcul de la limite d’une fonction polynomiale.
+10.Calcul de la limite d’une fonction polynomiale.
