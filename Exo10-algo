@@ -95,7 +95,7 @@ fin
 Algorithme Determination_de_la_pression_arterielle_moyenne;
 Variable 
   var PAD:REEL; 
-  var PAS:REELS;
+  var PAS:REEL;
   var PAM REEL;
   *PA:pression artérielle,D:diastolique, S:systolique, M:moyenne*;
  Debut 
